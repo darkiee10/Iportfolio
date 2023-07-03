@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Fork it, Try it....!👋
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: iPortfolio📝
+Template URL: https://iportfolio-0hnk.onrender.com
+
+
